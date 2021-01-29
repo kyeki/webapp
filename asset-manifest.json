@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/kyeki/webapp.git/static/css/main.2c7c5248.chunk.css",
-    "main.js": "/kyeki/webapp.git/static/js/main.adf9522d.chunk.js",
-    "main.js.map": "/kyeki/webapp.git/static/js/main.adf9522d.chunk.js.map",
+    "main.js": "/kyeki/webapp.git/static/js/main.8f6d6f8f.chunk.js",
+    "main.js.map": "/kyeki/webapp.git/static/js/main.8f6d6f8f.chunk.js.map",
     "runtime-main.js": "/kyeki/webapp.git/static/js/runtime-main.938ea16f.js",
     "runtime-main.js.map": "/kyeki/webapp.git/static/js/runtime-main.938ea16f.js.map",
-    "static/js/2.b9ed128b.chunk.js": "/kyeki/webapp.git/static/js/2.b9ed128b.chunk.js",
-    "static/js/2.b9ed128b.chunk.js.map": "/kyeki/webapp.git/static/js/2.b9ed128b.chunk.js.map",
+    "static/js/2.4a54c224.chunk.js": "/kyeki/webapp.git/static/js/2.4a54c224.chunk.js",
+    "static/js/2.4a54c224.chunk.js.map": "/kyeki/webapp.git/static/js/2.4a54c224.chunk.js.map",
     "index.html": "/kyeki/webapp.git/index.html",
     "static/css/main.2c7c5248.chunk.css.map": "/kyeki/webapp.git/static/css/main.2c7c5248.chunk.css.map",
-    "static/js/2.b9ed128b.chunk.js.LICENSE.txt": "/kyeki/webapp.git/static/js/2.b9ed128b.chunk.js.LICENSE.txt"
+    "static/js/2.4a54c224.chunk.js.LICENSE.txt": "/kyeki/webapp.git/static/js/2.4a54c224.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.938ea16f.js",
-    "static/js/2.b9ed128b.chunk.js",
+    "static/js/2.4a54c224.chunk.js",
     "static/css/main.2c7c5248.chunk.css",
-    "static/js/main.adf9522d.chunk.js"
+    "static/js/main.8f6d6f8f.chunk.js"
   ]
 }
